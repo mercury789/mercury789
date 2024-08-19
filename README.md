@@ -1,4 +1,4 @@
-##👋 Hello, I'm a front-end developer
+## 👋 Hello, I'm a front-end developer
 
 My technology stack:
 
