@@ -1,11 +1,11 @@
-## 👋 Hello, I'm a front-end developer
+# 👋 Hello, I'm a front-end developer
 
-My technology stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### My technology stack:
+![HTML5](https://img.shields.io/badge/HTML-%23494F5C?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS-%23494F5C?style=for-the-badge&logo=CSS3&logoColor=72A0F6)
+![SASS](https://img.shields.io/badge/SASS-%23494F5C?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23494F5C?style=for-the-badge&logo=JavaScript)
+![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
+![React](https://img.shields.io/badge/React-%23494F5C?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-%23494F5C?style=for-the-badge&logo=Redux&logoColor=994DE4)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23494F5C?style=for-the-badge&logo=TypeScript)
