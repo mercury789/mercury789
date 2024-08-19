@@ -1,6 +1,6 @@
-# 👋 Hello, I'm a front-end developer
+## 👋 Hello, I'm a front-end developer
 
-## My technology stack:
+My technology stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
