@@ -9,6 +9,7 @@
 
 ## Get in Touch:
 * [Weblancer](https://www.weblancer.net/users/mercury789/)
+* [Telegram](https://t.me/mercury789)
 
 ## Projects
 * [Realco](https://mercury789.github.io/realco/)
