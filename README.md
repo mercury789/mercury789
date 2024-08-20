@@ -8,7 +8,7 @@
 ![Gulp](https://img.shields.io/badge/Gulp-%23494F5C?style=for-the-badge&logo=Gulp)
 
 ## Get in Touch:
-* ![Weblancer](https://www.weblancer.net/users/mercury789/)
+* [Weblancer](https://www.weblancer.net/users/mercury789/)
 
 ## Projects
-* ![Realco](https://mercury789.github.io/realco/)
+* [Realco](https://mercury789.github.io/realco/)
